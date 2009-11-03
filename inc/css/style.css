@@ -1,0 +1,45 @@
+div.p1-menu
+{
+	background:#eee;
+	height: 450px;
+	
+}
+
+div.p1-con
+{
+	text-align:center;
+}
+
+div.p1-header
+{
+	height:170px;
+	background:#ccc;
+	text-align:center;
+	padding-top:5px;
+}
+
+div.p1-footer
+{
+	height:30px;
+	background:#ccc;
+	text-align:center;
+}
+
+div.p1-footer1
+{
+	height:30px;
+	background:#ccc;
+	text-align:center;
+	margin-right:0px;
+	margin-left:10px
+}
+
+
+.p1-f3
+{
+ vertical-align:top;
+}
+.p1-f4
+{
+ margin-right:450px;;
+}
